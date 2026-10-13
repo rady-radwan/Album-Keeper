@@ -4,7 +4,9 @@ A Windows app for organizing photos and videos into dated albums and categories,
 
 ## Download
 
-Get **AlbumKeeper-Setup-1.0.0.exe** from the [latest release](https://github.com/rady-radwan/Album-Keeper/releases/latest), then double-click it to install. No admin rights needed.
+[**Download AlbumKeeper-Setup-1.0.0.exe**](https://github.com/rady-radwan/Album-Keeper/raw/main/AlbumKeeper-Setup-1.0.0.exe) (78 MB, Windows 10/11, 64-bit), then double-click it to install. No admin rights needed.
+
+SHA-256: `80078D9B55DF98208160A83C8D7E9D46EBBAC57DDDCFAC1D6D29CEE2A12B2E41`
 
 Windows may show "Windows protected your PC" because the app isn't signed by a known publisher. Click **More info**, then **Run anyway**.
 
